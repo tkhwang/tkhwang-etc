@@ -1,4 +1,3 @@
-tkhwang-etc
-===========
+# tkhwang-etc
 
-* Just image repository for [blogging ](http://tkhwang.kr/).
+- Just image repository for [blogging ](http://tkhwang.me).
